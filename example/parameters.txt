@@ -1,0 +1,8 @@
+mutation_data_path	HCC_10_90.call_stats.pon_removed.txt
+cn_data_path	HCC-1143_100_T-sim-final.acs.seg
+tumor_het_data	HCC_10_90.tumor.hets.tsv
+normal_het_data	HCC_10_90.normal.hets.tsv
+exac_data_path	exac.pickle_high_af
+output_name	10_percent_TiN_simulation
+indel_data_path	MuTect2.call_stats.txt
+indel_data_type	MuTect2

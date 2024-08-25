@@ -1,0 +1,2 @@
+Prefix plugins/DeTiN/example/
+Plugin DeTiN inputfile parameters.txt outputfile .
